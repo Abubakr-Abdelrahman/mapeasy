@@ -82,6 +82,7 @@ nav:
     - Examples:
         - examples/intro.ipynb
         - examples/test.ipynb
+        - examples/folium.ipynb
     - API Reference:
           - mapeasy module: mapeasy.md
           - common module: common.md
