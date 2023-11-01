@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/Abubakr-Abdelrahman/mapeasy/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/test.ipynb
     - API Reference:
           - mapeasy module: mapeasy.md
           - common module: common.md
