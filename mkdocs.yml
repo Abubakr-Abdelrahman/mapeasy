@@ -41,7 +41,7 @@ plugins:
     - mkdocstrings
     - git-revision-date
     - git-revision-date-localized:
-          #enable_creation_date: true
+          enable_creation_date: true
           type: timeago
     # - pdf-export
     - mkdocs-jupyter:
@@ -83,6 +83,7 @@ nav:
         - examples/intro.ipynb
         - examples/test.ipynb
         - examples/folium.ipynb
+        - examples/mapeasy.ipynb
     - API Reference:
           - mapeasy module: mapeasy.md
           - common module: common.md
