@@ -1,0 +1,4 @@
+ 
+# mapeasy module
+
+::: mapeasy.mapeasy
