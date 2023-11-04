@@ -1,3 +1,3 @@
 # foliumap module
 
-::: insarpy.foliumap
+::: mapeasy.foliumap
