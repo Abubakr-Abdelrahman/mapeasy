@@ -88,6 +88,6 @@ nav:
         - examples/raster.ipynb
         - examples/test.ipynb
     - API Reference:
-        - mapeasy module: mapeasy.md
+    - mapeasy module: mapeasy.md
         - common module: common.md
         - foliummap module: foliumap.md
