@@ -80,8 +80,7 @@ nav:
     - Changelog: changelog.md
     - Report Issues: https://github.com/Abubakr-Abdelrahman/mapeasy/issues
     - Examples:
-         - examples/foliumap.ipynb
-         - examples/intro.ipynb
+#         - examples/intro.ipynb
          - examples/ipyleafletmap.ipynb
          - examples/intro.ipynb
          - examples/mapeasymap.ipynb
